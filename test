@@ -1,7 +1,8 @@
-items: [
-{
-  value: "Ferarri",
-  value: "BMW",
-  value: "Mersedes"
-}
+items: 
+[
+  {
+    value: "Ferarri",
+    html: "Ferarri",
+    label: "Ferarri"
+  }
 ]
